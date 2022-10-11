@@ -1,0 +1,34 @@
+C:\Users\cleme\OneDrive\Documents\Moui\MDH\Compiler Theory\Compiler Theory but it works\Lab2\Lab2\bin\Debug\net6.0\Lab2.exe
+C:\Users\cleme\OneDrive\Documents\Moui\MDH\Compiler Theory\Compiler Theory but it works\Lab2\Lab2\bin\Debug\net6.0\Lab2.deps.json
+C:\Users\cleme\OneDrive\Documents\Moui\MDH\Compiler Theory\Compiler Theory but it works\Lab2\Lab2\bin\Debug\net6.0\Lab2.runtimeconfig.json
+C:\Users\cleme\OneDrive\Documents\Moui\MDH\Compiler Theory\Compiler Theory but it works\Lab2\Lab2\bin\Debug\net6.0\Lab2.dll
+C:\Users\cleme\OneDrive\Documents\Moui\MDH\Compiler Theory\Compiler Theory but it works\Lab2\Lab2\bin\Debug\net6.0\ref\Lab2.dll
+C:\Users\cleme\OneDrive\Documents\Moui\MDH\Compiler Theory\Compiler Theory but it works\Lab2\Lab2\bin\Debug\net6.0\Lab2.pdb
+C:\Users\cleme\OneDrive\Documents\Moui\MDH\Compiler Theory\Compiler Theory but it works\Lab2\Lab2\bin\Debug\net6.0\QUT.ShiftReduceParser.dll
+C:\Users\cleme\OneDrive\Documents\Moui\MDH\Compiler Theory\Compiler Theory but it works\Lab2\Lab2\obj\Debug\net6.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleme\OneDrive\Documents\Moui\MDH\Compiler Theory\Compiler Theory but it works\Lab2\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\cleme\OneDrive\Documents\Moui\MDH\Compiler Theory\Compiler Theory but it works\Lab2\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfo.cs
+C:\Users\cleme\OneDrive\Documents\Moui\MDH\Compiler Theory\Compiler Theory but it works\Lab2\Lab2\obj\Debug\net6.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\cleme\OneDrive\Documents\Moui\MDH\Compiler Theory\Compiler Theory but it works\Lab2\Lab2\obj\Debug\net6.0\Lab2.csproj.CopyComplete
+C:\Users\cleme\OneDrive\Documents\Moui\MDH\Compiler Theory\Compiler Theory but it works\Lab2\Lab2\obj\Debug\net6.0\Lab2.dll
+C:\Users\cleme\OneDrive\Documents\Moui\MDH\Compiler Theory\Compiler Theory but it works\Lab2\Lab2\obj\Debug\net6.0\ref\Lab2.dll
+C:\Users\cleme\OneDrive\Documents\Moui\MDH\Compiler Theory\Compiler Theory but it works\Lab2\Lab2\obj\Debug\net6.0\Lab2.pdb
+C:\Users\cleme\OneDrive\Documents\Moui\MDH\Compiler Theory\Compiler Theory but it works\Lab2\Lab2\obj\Debug\net6.0\Lab2.genruntimeconfig.cache
+C:\Users\cleme\OneDrive\Documents\Moui\MDH\Compiler Theory\Compiler Theory but it works\Lab2\Lab2\obj\Debug\net6.0\Lab2.csproj.AssemblyReference.cache
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\bin\Debug\net6.0\Lab2.exe
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\bin\Debug\net6.0\Lab2.deps.json
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\bin\Debug\net6.0\Lab2.runtimeconfig.json
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\bin\Debug\net6.0\Lab2.dll
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\bin\Debug\net6.0\ref\Lab2.dll
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\bin\Debug\net6.0\Lab2.pdb
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\bin\Debug\net6.0\QUT.ShiftReduceParser.dll
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\obj\Debug\net6.0\Lab2.csproj.AssemblyReference.cache
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\obj\Debug\net6.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfo.cs
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\obj\Debug\net6.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\obj\Debug\net6.0\Lab2.csproj.CopyComplete
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\obj\Debug\net6.0\Lab2.dll
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\obj\Debug\net6.0\ref\Lab2.dll
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\obj\Debug\net6.0\Lab2.pdb
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\obj\Debug\net6.0\Lab2.genruntimeconfig.cache

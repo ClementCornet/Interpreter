@@ -1,0 +1,16 @@
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\bin\Debug\net6.0\Interpreter.exe
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\bin\Debug\net6.0\Interpreter.deps.json
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\bin\Debug\net6.0\Interpreter.runtimeconfig.json
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\bin\Debug\net6.0\Interpreter.dll
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\bin\Debug\net6.0\ref\Interpreter.dll
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\bin\Debug\net6.0\Interpreter.pdb
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\bin\Debug\net6.0\QUT.ShiftReduceParser.dll
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\obj\Debug\net6.0\Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\obj\Debug\net6.0\Interpreter.AssemblyInfoInputs.cache
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\obj\Debug\net6.0\Interpreter.AssemblyInfo.cs
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\obj\Debug\net6.0\Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\obj\Debug\net6.0\Interpreter.csproj.CopyComplete
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\obj\Debug\net6.0\Interpreter.dll
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\obj\Debug\net6.0\ref\Interpreter.dll
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\obj\Debug\net6.0\Interpreter.pdb
+C:\Users\cleme\OneDrive\Documents\Moui\Hein\Lab2\Lab2\obj\Debug\net6.0\Interpreter.genruntimeconfig.cache
